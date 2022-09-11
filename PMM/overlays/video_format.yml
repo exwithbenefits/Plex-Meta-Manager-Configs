@@ -85,7 +85,7 @@ overlays:
         slug: bluray
     plex_all: true
     filters:
-      filepath.regex: '(?i)\[Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
+      filepath.regex: '(?i)Blu[ ._-]?ray|\[BD|\[BR|\[HD[ ._-]?DVD'
 
   WEB:
     template:
