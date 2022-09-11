@@ -58,7 +58,7 @@ templates:
       - <<use_<<opt2>>>>
     overlay:
       name: <<overlay_name>>
-      url: https://github.com/pazport/Plex-Meta-Manager-Configs/PMM/overlays/images/<<overlay>>
+      url: https://github.com/pazport/Plex-Meta-Manager-Configs/tree/master/PMM/overlays/images<<overlay>>
       group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
@@ -82,7 +82,7 @@ templates:
       - <<use_<<opt2>>>>
     overlay:
       name: <<overlay_name>>
-      url: https://github.com/pazport/Plex-Meta-Manager-Configs/PMM/overlays/images/<<overlay>>
+      url: https://github.com/pazport/Plex-Meta-Manager-Configs/tree/master/PMM/overlays/images/<<overlay>>
       group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
