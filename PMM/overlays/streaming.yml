@@ -61,9 +61,9 @@ templates:
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
       back_color: "#00000099"
-      back_radius: 30
-      back_width: 305
-      back_height: 105
+      back_radius: 60
+      back_width: 610
+      back_height: 210
     mdblist_list: https://mdblist.com/lists/plexmetamanager/<<slug>>-<<library_type>>s
 
 overlays:
