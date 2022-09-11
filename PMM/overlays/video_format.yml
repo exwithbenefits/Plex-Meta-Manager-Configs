@@ -76,7 +76,7 @@ overlays:
         slug: remux
     plex_all: true
     filters:
-      filepath.regex: '(?i)\[Remux'
+      filepath.regex: '(?i)Remux'
 
   BLU-RAY:
     template:
