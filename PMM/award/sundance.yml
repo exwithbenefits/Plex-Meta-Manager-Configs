@@ -31,7 +31,7 @@ templates:
     allowed_library_types: movie
     summary: Sundance Film Festival of <<key>>
     trakt_list: https://trakt.tv/users/pjcob/lists/<<key>>-sundance
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/sundance/<<key>>.jpg
+    url_poster: https://raw.githubusercontent.com/exwithbenefits/Plex-Meta-Manager-Images/master/award/sundance/<<key>>.jpg
 
 collections:
   Sundance Grand Jury Winners:

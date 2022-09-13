@@ -32,7 +32,7 @@ collections:
         image: cesar/winner
       - name: shared
     allowed_library_types: movie
-    trakt_list_details: https://trakt.tv/users/maxwelldeux/lists/cesar-award-best-french-film
+    trakt_list_details: https://trakt.tv/users/exwithbenefits/lists/cesar-award-best-french-film
 
   Berlinale:
     template:

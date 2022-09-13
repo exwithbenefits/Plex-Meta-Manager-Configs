@@ -32,7 +32,7 @@ templates:
     allowed_library_types: movie
     summary: <<key>> BAFTA awards
     trakt_list: https://trakt.tv/users/pjcob/lists/<<key>>-bafta
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/bafta/<<key>>.jpg
+    url_poster: https://raw.githubusercontent.com/exwithbenefits/Plex-Meta-Manager-Images/master/award/bafta/<<key>>.jpg
 
 collections:
   BAFTA Best Films:

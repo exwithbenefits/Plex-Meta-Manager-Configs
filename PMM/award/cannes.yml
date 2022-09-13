@@ -32,7 +32,7 @@ templates:
     allowed_library_types: movie
     summary: <<key>> Cannes awards
     trakt_list: https://trakt.tv/users/pjcob/lists/<<key>>-cannes
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/cannes/<<key>>.jpg
+    url_poster: https://raw.githubusercontent.com/exwithbenefits/Plex-Meta-Manager-Images/master/award/cannes/<<key>>.jpg
 
 collections:
   Cannes - Palme d'or:
